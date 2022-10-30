@@ -1,0 +1,19 @@
+{
+  "name": "cy10",
+  "version": "1.0.0",
+  "description": "cypress workspace",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "automation",
+    "testing"
+  ],
+  "author": "rakesh suyal",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
+}
